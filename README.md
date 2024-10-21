@@ -2,6 +2,8 @@
 
 In this project I look at the best way to cluster the crypto coin data using KMeans on the original scaled data and using Principal Component Analysis.
 
+Run the Crypto_Clustering_starter_code.ipynb file in the Starter_Code folder to begin.
+
 First the data is scaled and inertia is calculated to find the best value for k using the original scaled data.
 The best value for k according to the elbow plot was 4.
 
